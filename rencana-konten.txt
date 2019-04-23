@@ -3,5 +3,6 @@ Rencana Ade Randika
   * Tutorial website 
   * Tutorial Windows
      ^ Instal Aplikasi 
+     ^ Instal Sistem Operasi 
   * Struktur Data Dasar 
 -Semangat dalam hal belajar 
