@@ -2,5 +2,6 @@ Rencana Ade Randika
 -Konsisten upload video youtube 
   * Tutorial website 
   * Tutorial Windows
+     ^ Instal Aplikasi 
   * Struktur Data Dasar 
 -Semangat dalam hal belajar 
